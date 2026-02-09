@@ -66,7 +66,7 @@ Les repositories publics reflètent principalement :
 
 ## Contact
 
-LinkedIn :   
+LinkedIn : https://www.linkedin.com/in/arthur-destribats/
 Email : arthur.destribats@gmail.com
 Téléphone : 07 85 70 82 28
 
