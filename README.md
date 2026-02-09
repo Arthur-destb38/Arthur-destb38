@@ -12,8 +12,6 @@ Je travaille à l’interface entre :
 - ingénierie de données et machine learning,
 - compréhension métier (finance, assurance, systèmes d’information).
 
-J’accorde une grande importance à la **rigueur méthodologique**, à la **lisibilité du code** et à la **traçabilité des résultats**.  
-Mon approche est volontairement progressive : comprendre les fondations avant d’industrialiser.
 
 ---
 
@@ -26,7 +24,7 @@ Mon approche est volontairement progressive : comprendre les fondations avant d�
 - Méthodes de validation et évaluation de modèles
 - Analyse exploratoire et réduction de dimension
 
-### Machine Learning
+### Machine Learning et deep learning
 - Modèles supervisés (arbres, forêts, boosting)
 - Introduction au deep learning pour séries temporelles
 - Feature engineering et sélection de variables
@@ -37,6 +35,8 @@ Mon approche est volontairement progressive : comprendre les fondations avant d�
 - SQL et manipulation de bases de données
 - Structuration de projets data (pipelines, environnements)
 - Documentation technique claire (README, schémas, commentaires)
+- Docker
+- Postgre
 
 ### Systèmes d’information
 - Backend Python (API, logique métier)
@@ -52,12 +52,6 @@ Les repositories publics reflètent principalement :
 - des **projets personnels appliqués**, avec une logique proche du monde professionnel,
 - des expérimentations autour du machine learning et de la data appliquée.
 
-Chaque projet contient :
-- un objectif clairement défini,
-- une méthodologie explicitée,
-- une structure de code lisible,
-- une documentation détaillée.
-
 ---
 
 ## Méthode de travail
@@ -70,19 +64,12 @@ Chaque projet contient :
 
 ---
 
-## En cours
-
-- Projets de machine learning appliqués aux séries temporelles
-- Travaux autour du scoring et de la modélisation du risque
-- Développement de projets data orientés systèmes d’information
-
----
-
 ## Contact
 
-LinkedIn : à compléter  
-Email : à compléter
+LinkedIn :   
+Email : arthur.destribats@gmail.com
+Téléphone : 07 85 70 82 28
 
 ---
 
-*Ce profil GitHub a vocation à évoluer au fil des projets et des apprentissages.*
+
