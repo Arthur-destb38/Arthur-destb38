@@ -1,0 +1,88 @@
+# Arthur Destribats
+
+Étudiant en Master 2 **MoSEF – Modélisation Statistique Économique et Financière** à l’Université Paris 1 Panthéon-Sorbonne.  
+Parcours orienté **économétrie, data science, modélisation du risque et systèmes d’information**, avec une forte appétence pour les projets appliqués et structurés.
+
+---
+
+## Profil
+
+Je travaille à l’interface entre :
+- modélisation statistique et économétrique,
+- ingénierie de données et machine learning,
+- compréhension métier (finance, assurance, systèmes d’information).
+
+J’accorde une grande importance à la **rigueur méthodologique**, à la **lisibilité du code** et à la **traçabilité des résultats**.  
+Mon approche est volontairement progressive : comprendre les fondations avant d’industrialiser.
+
+---
+
+## Domaines de compétence
+
+### Modélisation & statistiques
+- Régression linéaire et logistique
+- Scoring crédit (WOE, IV, ROC, AUC)
+- Séries temporelles (ARIMA, modèles supervisés)
+- Méthodes de validation et évaluation de modèles
+- Analyse exploratoire et réduction de dimension
+
+### Machine Learning
+- Modèles supervisés (arbres, forêts, boosting)
+- Introduction au deep learning pour séries temporelles
+- Feature engineering et sélection de variables
+- Comparaison de modèles et analyse de performance
+
+### Data & ingénierie
+- Python (pandas, numpy, scikit-learn)
+- SQL et manipulation de bases de données
+- Structuration de projets data (pipelines, environnements)
+- Documentation technique claire (README, schémas, commentaires)
+
+### Systèmes d’information
+- Backend Python (API, logique métier)
+- Projets orientés architecture simple et maintenable
+- Sensibilité aux enjeux d’industrialisation et de qualité des données
+
+---
+
+## Projets principaux
+
+Les repositories publics reflètent principalement :
+- des **projets académiques approfondis**, retravaillés pour être propres et reproductibles,
+- des **projets personnels appliqués**, avec une logique proche du monde professionnel,
+- des expérimentations autour du machine learning et de la data appliquée.
+
+Chaque projet contient :
+- un objectif clairement défini,
+- une méthodologie explicitée,
+- une structure de code lisible,
+- une documentation détaillée.
+
+---
+
+## Méthode de travail
+
+- Priorité à la compréhension théorique avant l’implémentation
+- Code structuré, commenté et versionné
+- Reproductibilité des résultats
+- Refactoring progressif et amélioration continue
+- Vision long terme sur les projets (roadmap, évolutions possibles)
+
+---
+
+## En cours
+
+- Projets de machine learning appliqués aux séries temporelles
+- Travaux autour du scoring et de la modélisation du risque
+- Développement de projets data orientés systèmes d’information
+
+---
+
+## Contact
+
+LinkedIn : à compléter  
+Email : à compléter
+
+---
+
+*Ce profil GitHub a vocation à évoluer au fil des projets et des apprentissages.*
