@@ -1,6 +1,6 @@
 # Arthur Destribats
 
-Étudiant en Master 2 **MoSEF – Modélisation Statistique Économique et Financière** à l’Université Paris 1 Panthéon-Sorbonne.  
+Étudiant en Master 2 **MoSEF – Modélisation Statistiques Économiques et Financières** à l’Université Paris 1 Panthéon-Sorbonne.  
 Parcours orienté **économétrie, data science, modélisation du risque et systèmes d’information**, avec une forte appétence pour les projets appliqués et structurés.
 
 ---
