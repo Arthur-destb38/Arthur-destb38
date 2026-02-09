@@ -7,7 +7,7 @@ Parcours orienté **économétrie, data science, modélisation du risque et syst
 
 ## Profil
 
-Je travaille à l’interface entre :
+Je développe des projets à l’intersection de la **modélisation quantitative**, de l’**ingénierie de données** et de la **compréhension métier** (finance, assurance, systèmes d’information).
 - modélisation statistique et économétrique,
 - ingénierie de données et machine learning,
 - compréhension métier (finance, assurance, systèmes d’information).
@@ -72,4 +72,7 @@ Téléphone : 07 85 70 82 28
 
 ---
 
+Ce profil GitHub est maintenu comme un espace de travail et de présentation de projets techniques à vocation académique et professionnelle.
+
+---
 
